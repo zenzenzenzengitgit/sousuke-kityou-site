@@ -193,3 +193,5 @@ h1,h2,h3,p{margin:0}
 .price-sub{max-width:860px;margin:24px auto 0}
 .price-sub .box{color:var(--text)}
 .price-sub .box p{margin:0;font-size:15px}
+.btn--line{background:#06C755;color:#fff}
+.btn--line:hover{background:#05B34C;color:#fff}
