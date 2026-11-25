@@ -181,3 +181,15 @@ h1,h2,h3,p{margin:0}
   .cta-band__title{font-size:22px}
   .contact h2{font-size:26px}
 }
+
+/* price v2 */
+.price-card__plan{text-align:center;font-weight:900;color:var(--navy);font-size:18px}
+.price-card__top{align-items:center}
+.price-card__regular{font-size:24px;font-weight:700;color:var(--sub);text-decoration:line-through}
+.price-card__arrow{font-size:22px;color:var(--sub)}
+.price-card__monitor-label{font-size:14px;font-weight:900;color:#fff;background:var(--blue);border-radius:999px;padding:4px 12px}
+.price-card__big small,.free-box__big small{font-size:.4em;font-weight:900;margin-left:2px}
+.price-card__note{font-size:13px;color:var(--sub);margin:0;line-height:1.7}
+.price-sub{max-width:860px;margin:24px auto 0}
+.price-sub .box{color:var(--text)}
+.price-sub .box p{margin:0;font-size:15px}
